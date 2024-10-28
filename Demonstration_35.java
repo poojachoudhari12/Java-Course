@@ -1,4 +1,4 @@
-//intiallise througth method
+//intialise througth method
 class Point
 {
     int x,y;//Data members

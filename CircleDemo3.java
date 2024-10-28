@@ -18,7 +18,6 @@ public class CircleDemo3 {
         Circle c1 = new Circle();
         Circle c2 = new Circle();
 
-
         c1.setCircle(3.0, 4.0, 5.0); // Initializing c1
         c2.setCircle(-4.0, 8.0, 10.0); // Initializing c2
 
